@@ -3,6 +3,8 @@
   "displayName": "Time Since decorator",
   "description": "displays a simple calculation of current time against a given timestamp",
   "version": "0.0.1",
+  "publisher": "dalborg",
+  "repository": {"url": "https://github.com/dallinbeutler/vscode-time-since-decorator"},
   "engines": {
     "vscode": "^1.89.0"
   },
